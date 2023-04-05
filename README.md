@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Desenvolvedora Front-End<br>📚Cursando Enngenharia de Software
+💻Desenvolvedora Front-End<br>📚Cursando Engenharia de Software
 
 
 # 💻 Tech Stack:
